@@ -32,7 +32,7 @@ public class ObjectiveScript : MonoBehaviour
         // Set a starting planet, and current objective.
         currentPlanet = planets[1];
         currentObjective = "Deliver box to " + currentPlanet.name;
-        planetsLeft = 1;
+        planetsLeft = 3;
         planetText.text = "Planets Left: " + planetsLeft;
         
     }

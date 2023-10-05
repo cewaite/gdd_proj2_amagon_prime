@@ -409,8 +409,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Your goal is to successfully send three AmaGon packages to other planets!
-    \n\nuse WASD to control, Space to use fuel, and J to drop pckage. Be careful!
-    If you run out of fuel, you lose!"
+    \n\nUse A and D to rotate your ship, Space to use fuel, and J to drop the package.
+    Be careful! If you run out of fuel, you lose!"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
